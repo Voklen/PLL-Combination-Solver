@@ -1,0 +1,23 @@
+[
+	{"Name": "Aa", "Transform": [6,1,0,3,4,5,2,7,8]},
+	{"Name": "Ab", "Transform": [8,1,2,3,4,5,0,7,6]},
+	{"Name": "F", "Transform": [0,7,8,3,4,5,6,1,2]},
+	{"Name": "Ga", "Transform": [0,3,8,5,4,7,6,1,2]},
+	{"Name": "Gb", "Transform": [0,7,8,1,4,3,6,5,2]},
+	{"Name": "Gc", "Transform": [0,7,8,5,4,1,6,3,2]},
+	{"Name": "Gd", "Transform": [0,5,8,7,4,3,6,1,2]},
+	{"Name": "Ja", "Transform": [0,5,8,3,4,1,6,7,2]},
+	{"Name": "Jb", "Transform": [0,1,8,3,4,7,6,5,2]},
+	{"Name": "Ra", "Transform": [0,3,8,1,4,5,6,7,2]},
+	{"Name": "Rb", "Transform": [0,1,8,7,4,5,6,3,2]},
+	{"Name": "T", "Transform": [0,1,8,5,4,3,6,7,2]},
+	{"Name": "E", "Transform": [6,1,8,3,4,5,0,7,2]},
+	{"Name": "Na", "Transform": [0,1,6,5,4,3,2,7,8]},
+	{"Name": "Nb", "Transform": [8,1,2,5,4,3,6,7,0]},
+	{"Name": "V", "Transform": [8,5,2,3,4,1,6,7,0]},
+	{"Name": "Y", "Transform": [8,3,2,1,4,5,6,7,0]},
+	{"Name": "H", "Transform": [0,7,2,5,4,3,6,1,8]},
+	{"Name": "Ua", "Transform": [0,1,2,5,4,7,6,3,8]},
+	{"Name": "Ub", "Transform": [0,1,2,7,4,3,6,5,8]},
+	{"Name": "Z", "Transform": [0,5,2,7,4,1,6,3,8]}
+]
