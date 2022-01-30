@@ -1,3 +1,10 @@
+import json
+
+def get_plls(target_file):
+	with open(target_file, "r") as file:
+		data = json.load(file)
+	return data
+
 def run_pll(array_input, transform):
 	out = [0]*9
 	for (index, i) in enumerate(transform):

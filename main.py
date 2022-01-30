@@ -1,4 +1,3 @@
-import json
 import backend
 
 def get_pll(data):
@@ -12,8 +11,7 @@ def get_input():
 	print("Welcome to my pll result program")
 	print("Made by Alex Gorichev")
 	
-	with open("data/plls.json", "r") as file:
-		data = json.load(file)
+	data = backend.get_plls("data/plls.json")
 	
 	first_pll = get_pll(data)
 	second_pll = get_pll(data)
