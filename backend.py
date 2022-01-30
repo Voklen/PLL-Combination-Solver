@@ -13,6 +13,8 @@ def run_pll(array_input, transform):
 	return out
 
 def detect_pll(pll, data):
+	if pll == [0, 1, 2, 3, 4, 5, 6, 7, 8]:
+		return {"Name": "Solved", "Transform": [0, 1, 2, 3, 4, 5, 6, 7, 8]}
 	for i in data:
 		res = run_pll(pll, i["Transform"])
 		for j in range(4):
