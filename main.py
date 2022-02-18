@@ -1,7 +1,7 @@
 import backend
 
 def get_pll(data):
-	input_pll = input("What pll would you like to see the result of?\n").lower()
+	input_pll = input("What pll would you like to see the result of?\n")
 	
 	for i in data: # Loop through all the pll's
 		if i["Name"].lower() == input_pll.lower(): # If the name of the current item maches the user input, return this item
